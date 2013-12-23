@@ -1,0 +1,180 @@
+Fakemon:
+Base Stat Total: 44
+HP: 7
+Attack: 2
+Defense: 4
+Special Attack: 10
+Special Defense: 16
+Speed: 2
+
+Fakemon:
+Base Stat Total: 32
+HP: 7
+Attack: 2
+Defense: 3
+Special Attack: 8
+Special Defense: 1
+Speed: 8
+
+Fakemon:
+Base Stat Total: 30
+HP: 5
+Attack: 1
+Defense: 2
+Special Attack: 9
+Special Defense: 7
+Speed: 3
+
+Fakemon:
+Base Stat Total: 29
+HP: 1
+Attack: 2
+Defense: 4
+Special Attack: 8
+Special Defense: 2
+Speed: 9
+
+Fakemon:
+Base Stat Total: 19
+HP: 1
+Attack: 2
+Defense: 4
+Special Attack: 2
+Special Defense: 4
+Speed: 3
+
+Fakemon:
+Base Stat Total: 27
+HP: 3
+Attack: 4
+Defense: 4
+Special Attack: 2
+Special Defense: 6
+Speed: 6
+
+Fakemon:
+Base Stat Total: 58
+HP: 7
+Attack: 14
+Defense: 2
+Special Attack: 19
+Special Defense: 2
+Speed: 10
+
+Fakemon:
+Base Stat Total: 36
+HP: 5
+Attack: 8
+Defense: 9
+Special Attack: 1
+Special Defense: 4
+Speed: 5
+
+Fakemon:
+Base Stat Total: 52
+HP: 6
+Attack: 2
+Defense: 5
+Special Attack: 16
+Special Defense: 14
+Speed: 6
+
+Fakemon:
+Base Stat Total: 37
+HP: 3
+Attack: 6
+Defense: 5
+Special Attack: 9
+Special Defense: 4
+Speed: 7
+
+Fakemon:
+Base Stat Total: 35
+HP: 7
+Attack: 6
+Defense: 9
+Special Attack: 2
+Special Defense: 5
+Speed: 4
+
+Fakemon:
+Base Stat Total: 53
+HP: 14
+Attack: 1
+Defense: 11
+Special Attack: 4
+Special Defense: 9
+Speed: 12
+
+Fakemon:
+Base Stat Total: 38
+HP: 1
+Attack: 1
+Defense: 7
+Special Attack: 12
+Special Defense: 5
+Speed: 8
+
+Fakemon:
+Base Stat Total: 46
+HP: 3
+Attack: 3
+Defense: 8
+Special Attack: 9
+Special Defense: 8
+Speed: 12
+
+Fakemon:
+Base Stat Total: 26
+HP: 4
+Attack: 6
+Defense: 1
+Special Attack: 4
+Special Defense: 2
+Speed: 6
+
+Fakemon:
+Base Stat Total: 18
+HP: 2
+Attack: 3
+Defense: 1
+Special Attack: 5
+Special Defense: 2
+Speed: 2
+
+Fakemon:
+Base Stat Total: 23
+HP: 1
+Attack: 2
+Defense: 4
+Special Attack: 8
+Special Defense: 2
+Speed: 4
+
+Fakemon:
+Base Stat Total: 55
+HP: 3
+Attack: 6
+Defense: 5
+Special Attack: 12
+Special Defense: 13
+Speed: 13
+
+Fakemon:
+Base Stat Total: 47
+HP: 4
+Attack: 12
+Defense: 3
+Special Attack: 12
+Special Defense: 12
+Speed: 1
+
+Fakemon:
+Base Stat Total: 48
+HP: 8
+Attack: 7
+Defense: 9
+Special Attack: 8
+Special Defense: 9
+Speed: 4
+
